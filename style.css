@@ -8,9 +8,8 @@ html, body {
 
 .container{
     margin: 0 auto;
-    width: 50%;
-    min-width: 744px;
-    padding-top: 145px;
+    width: 935px;
+    padding-top: 100px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
